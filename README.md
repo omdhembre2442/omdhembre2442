@@ -17,8 +17,8 @@
 - Read tech blogs & books 📚
 
 ## 💻 Current Projects
-- **Hospital Management System** [WIP] - MERN Stack
-- **IPL Management System** [WIP] - Java Spring Boot
+- **Hospital Management System** [WIP] - Java SpringBoot
+- **IPL Management System** [WIP] - Java SpringBoot
 
 ## 📚 Learning
 - React.js 🚀
